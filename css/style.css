@@ -129,8 +129,8 @@ a {
 }
 .wrap .swiper-wrapper .swiper-slide .inner .con p {
 	position: absolute;
-	bottom: 5px; /* 이미지 아래 여백 조절 */
-	right: 5px;
+	bottom: 5%; /* 이미지 아래 여백 조절 */
+	left: 5%;
 	width: 100%;
 	text-align: right;
 	font-weight: normal;
